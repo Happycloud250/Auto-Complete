@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(0, 0, 0, 0.658);
+}
+.container{
+    width: 600px;
+}
+.search{
+    margin-top: 50px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    
+}
+.productDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 48px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+    
+    background-color: #FFFFFF;
+}
+.img{
+    width: 5%;
+}
