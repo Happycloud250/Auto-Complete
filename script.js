@@ -275,8 +275,8 @@ searchTag.addEventListener("keyup", (event) => {
   if (
     event.key === "ArrowDown" ||
     event.key === "ArrowUp" ||
-    event.key === "Enter" ||
-    event.key === "Backspace"
+    event.key === "Enter" 
+    // ||event.key === "Backspace"
   ) {
     navigateAndSelectProduct(event.key);
     return;
