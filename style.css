@@ -5,6 +5,7 @@ body {
   width: 600px;
 }
 .search {
+  display: none;
   margin-top: 50px;
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
